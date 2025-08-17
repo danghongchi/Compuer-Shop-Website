@@ -1,0 +1,84 @@
+﻿@model IEnumerable<ComputerShop.Models.OrderModel>
+
+@{
+    ViewData["Title"] = "Đơn hàng";
+    Paginate pager = new Paginate();
+    int pageNo = 0;
+    if (ViewBag.Pager != null)
+    {
+        pager = ViewBag.Pager;
+        pageNo = pager.CurrentPage;
+    }
+}
+
+<h3>List Order</h3>
+
+<table class="table" id="myTable">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Order Code</th>
+            <th scope="col">UserName</th>
+            <th scope="col">Order Date</th>
+            <th scope="col">Order Status</th>
+            <th scope="col">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="col">@item.Id</th>
+                <td>@item.OrderCode</td>
+                <td>@item.UserName</td>
+                <td>@item.CreateDate</td>
+                <td>
+                    @if (item.Status == 1)
+                    {
+                        <span class="text-success">Đơn hàng mới</span>
+                    }
+                    else
+                    {
+                        <span class="text-danger">Đơn hàng thành công</span>
+                    }
+                </td>
+                <td class="inline-buttons">
+                    <a asp-action="ViewOrder" asp-route-ordercode="@item.OrderCode" class="btn btn-warning btn-sm">View Order</a>
+                    <button type="button" class="btn btn-danger btn-sm btn-delete" data-ordercode="@item.OrderCode">Delete</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<partial name="_paging" model="@pager" />
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            // Xử lý sự kiện xóa đơn hàng
+            $('.btn-delete').click(function () {
+                var orderCode = $(this).data('ordercode');
+
+                if (confirm("Bạn có chắc chắn muốn xóa đơn hàng này không?")) {
+                    $.ajax({
+                        type: "POST",
+                        url: "@Url.Action("Delete", "Order", new { area = "Admin" })",
+                        data: { orderCode: orderCode },
+                        success: function (result) {
+                            if (result.success) {
+                                Swal.fire("Xóa đơn hàng thành công");
+                                location.reload(); // Reload lại trang sau khi xóa thành công
+                            } else {
+                                Swal.fire("Xóa đơn hàng thất bại: " + result.message);
+                            }
+                        },
+                        error: function (req, status, error) {
+                            Swal.fire("Lỗi khi xóa đơn hàng: " + error);
+                        }
+                    });
+                }
+            });
+        });
+    </script>
+}

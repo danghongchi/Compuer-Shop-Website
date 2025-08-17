@@ -1,0 +1,120 @@
+﻿@model ContactModel
+@{
+    Layout = "_Layout";
+}
+<style>
+    .container {
+        max-width: 1200px;
+    }
+
+    .map-container {
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        overflow: hidden;
+        height: 400px;
+    }
+
+    .description {
+        font-size: 1.1rem;
+        color: #333;
+        line-height: 1.6;
+        margin-top: 20px;
+    }
+
+    .contact-info {
+        font-family: 'Arial', sans-serif;
+        background-color: #f9f9f9;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .contact-info:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    }
+
+    .contact-name {
+        font-weight: 600;
+        font-size: 1.7rem;
+        color: #333;
+        margin-bottom: 10px;
+    }
+
+    .contact-detail {
+        font-size: 1.2rem;
+        margin-bottom: 15px;
+        color: #444;
+        display: flex;
+        align-items: center;
+    }
+
+    .contact-detail i {
+        margin-right: 15px;
+        font-size: 1.3rem;
+        color: #888;
+    }
+
+    h2 {
+        color: #0056b3;
+        font-weight: 700;
+        margin-bottom: 20px;
+    }
+
+    .map-container {
+        margin-top: 30px;
+    }
+
+    .media (max-width: 768px) {
+        .contact-info {
+            padding: 15px;
+        }
+
+        .contact-name {
+            font-size: 1.4rem;
+        }
+
+        .map-container {
+            height: 300px;
+        }
+
+        .contact-detail i {
+            font-size: 1.2rem;
+        }
+    }
+
+</style>
+
+<div class="container mt-4">
+    <h2>Contact Information</h2>
+
+    <div class="row mt-4">
+        <div class="col-md-6">
+            <div class="contact-info">
+                <div class="contact-name">@Model.Name</div>
+
+                <div class="contact-detail">
+                    <i class="fas fa-envelope"></i> 
+                    <span><strong>Email:</strong> @Model.Email</span>
+                </div>
+
+                <div class="contact-detail">
+                    <i class="fas fa-phone"></i> 
+                    <span><strong>Phone:</strong> @Model.Phone</span>
+                </div>
+
+                <div class="description">
+                    @Html.Raw(@Model.Description)
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <h4>Our Location</h4>
+            <div class="map-container">
+                @Html.Raw(@Model.Map) <!-- Hiển thị bản đồ từ cơ sở dữ liệu -->
+            </div>
+        </div>
+    </div>
+</div>

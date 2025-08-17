@@ -1,0 +1,51 @@
+﻿@model IEnumerable<ContactModel>
+@{
+    ViewData["title"] = "Contact Listed";
+    Paginate pager = ViewBag.Pager ?? new Paginate();  // Sử dụng giá trị mặc định nếu ViewBag.Pager là null
+    int pageNo = pager.CurrentPage;
+}
+
+<h3>List Contact</h3>
+
+<table class="table" id="myTable">
+    <thead>
+        <tr>
+            <th scope="col">Name</th>           
+            <th scope="col">Map</th>
+            <th scope="col">Email</th>
+            <th scope="col">Phone</th>
+            <th scope="col"> Description</th>
+            <th scope="col">LogoImg</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">@item.Name</th>
+                <td>@Html.Raw(item.Map)</td>
+                <td>@item.Email</td>
+                <td>@item.Phone</td>
+                <td>@Html.Raw(item.Description)</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(item.LogoImg))
+                    {
+                        <img src="~/media/logos/@item.LogoImg" width="120" />
+                    }
+                    else
+                    {
+                        <img src="~/media/logos/default-image.jpg" width="120" />
+                    }
+                </td>
+                
+                <td class="inline-buttons">
+                    <a asp-action="Edit" class="btn btn-warning btn-sm" asp-controller="Contact" >Edit</a>
+                   
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<partial name="_paging" model="@pager" />

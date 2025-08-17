@@ -1,0 +1,381 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ComputerShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ComputerShop.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\backend\\js\\site.js",
+      "PackagePath": "staticwebassets\\backend\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\css\\price-range.css",
+      "PackagePath": "staticwebassets\\css\\price-range.css"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\images\\gallery1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\js\\gmaps.js",
+      "PackagePath": "staticwebassets\\js\\gmaps.js"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\js\\html5shiv.js"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\js\\price-range.js",
+      "PackagePath": "staticwebassets\\js\\price-range.js"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\media\\logos\\d064e5e2-7384-411d-b27c-75c623422768_tải xuống.png",
+      "PackagePath": "staticwebassets\\media\\logos\\d064e5e2-7384-411d-b27c-75c623422768_tải xuống.png"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\media\\products\\539f2554-0c90-4800-83b9-3d3adbdc0276_group_452_2_.png",
+      "PackagePath": "staticwebassets\\media\\products\\539f2554-0c90-4800-83b9-3d3adbdc0276_group_452_2_.png"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\media\\products\\a4f581ad-9ab7-445e-8c41-e9ba448bcda7_3.png",
+      "PackagePath": "staticwebassets\\media\\products\\a4f581ad-9ab7-445e-8c41-e9ba448bcda7_3.png"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\media\\products\\a50a2ef9-df8a-4c20-9706-302fcd4b7c23_4.png",
+      "PackagePath": "staticwebassets\\media\\products\\a50a2ef9-df8a-4c20-9706-302fcd4b7c23_4.png"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\media\\products\\ac15ab2e-92a9-4589-9f00-490765228b0c_3.png",
+      "PackagePath": "staticwebassets\\media\\products\\ac15ab2e-92a9-4589-9f00-490765228b0c_3.png"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\media\\products\\cc17d148-8a84-4110-95c4-8cd2776f49c8_3.png",
+      "PackagePath": "staticwebassets\\media\\products\\cc17d148-8a84-4110-95c4-8cd2776f49c8_3.png"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\media\\products\\d123fa02-9a9d-47fc-9c27-cc1d39313945_msi_1.png",
+      "PackagePath": "staticwebassets\\media\\products\\d123fa02-9a9d-47fc-9c27-cc1d39313945_msi_1.png"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\media\\products\\dc9817a9-7817-4b12-9e4f-e006be49cb3c_laptop-lenovo-loq-15iax9-83gs001rvn-thumbnails_1.png",
+      "PackagePath": "staticwebassets\\media\\products\\dc9817a9-7817-4b12-9e4f-e006be49cb3c_laptop-lenovo-loq-15iax9-83gs001rvn-thumbnails_1.png"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\media\\products\\e834d10d-aa4c-4e5e-937e-8aa81cd6101d_4.png",
+      "PackagePath": "staticwebassets\\media\\products\\e834d10d-aa4c-4e5e-937e-8aa81cd6101d_4.png"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\media\\sliders\\3c278174-0493-45e8-b204-1cf7732f319d_PC-BUNDLE-BANNER-1.jpg",
+      "PackagePath": "staticwebassets\\media\\sliders\\3c278174-0493-45e8-b204-1cf7732f319d_PC-BUNDLE-BANNER-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\chida\\source\\repos\\ComputerShop\\ComputerShop\\wwwroot\\media\\sliders\\8ed1a4e5-dbba-4504-ae4b-97f6a53442d0_do-a-professional-gaming-pc-banner.jpg",
+      "PackagePath": "staticwebassets\\media\\sliders\\8ed1a4e5-dbba-4504-ae4b-97f6a53442d0_do-a-professional-gaming-pc-banner.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ComputerShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ComputerShop.props",
+      "PackagePath": "build\\ComputerShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ComputerShop.props",
+      "PackagePath": "buildMultiTargeting\\ComputerShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ComputerShop.props",
+      "PackagePath": "buildTransitive\\ComputerShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

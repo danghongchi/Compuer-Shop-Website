@@ -1,0 +1,39 @@
+﻿@model IEnumerable<ComputerShop.Areas.Admin.Controllers.UserWithRoleViewModel>
+
+@{
+    ViewData["title"] = "User List";
+}
+
+<h3>List Users</h3>
+<a class="btn btn-primary" asp-action="Create" asp-controller="User">Add User</a>
+<table class="table" id="myTable">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">UserName</th>
+            <th scope="col">Email</th>
+            <th scope="col">Phone Number</th>
+            <th scope="col">Role</th>
+            <th scope="col">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var usersWithRoles in Model)
+        {
+            <tr>
+                <th>@usersWithRoles.UserId</th>
+                <td>@usersWithRoles.UserName</td>
+                <td>@usersWithRoles.Email</td>
+                <td>@usersWithRoles.PhoneNumber</td>
+                <td>@usersWithRoles.RoleName</td>
+
+                <td class="inline-buttons">
+                    <a asp-action="Edit" class="btn btn-warning btn-sm" asp-controller="User" asp-route-id="@usersWithRoles.UserId">Edit</a>
+                    <form asp-action="Delete" asp-controller="User" asp-route-id="@usersWithRoles.UserId" method="post" class="d-inline-block" onsubmit="return confirm('Are you sure you want to delete this user?');">
+                        <button type="submit" class="btn btn-danger btn-sm confirmDeletion">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
